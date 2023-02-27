@@ -73,7 +73,7 @@ header .nav{
 
 .row .col-sm-6 .certificate, .row .col-sm-6 .intership{
     box-shadow: #000 5px 5px 10px;
-    padding: 60px;
+    padding: 60px 20%;
 }
 
 .row .col-sm-6 h1{
