@@ -112,3 +112,9 @@ header .nav{
 }
 
 
+.Certificate a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff003c;
+    padding: 2px;
+}
