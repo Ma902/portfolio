@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#FF4040, #FF6040);
+    height: 100vh;
+    
+}
+
+.col-xl-6{
+    margin-top: 45vh;
+}
+
+
+img{
+    box-shadow: #000 5px 5px 20px;
+}
+
+img:hover{
+    width: 55%;
+}
+
+
+a{
+    color: #fff;
+    margin-left: 20px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+
+a:hover{
+    color: #DADADA;
+    text-decoration: none;
+
+}
